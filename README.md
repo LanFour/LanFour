@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LanFour
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything really
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me 👉 antunes.alan4@gmail.com
 
 <!---
